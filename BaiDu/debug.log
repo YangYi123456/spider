@@ -1,0 +1,2 @@
+[1224/172330.462:ERROR:exception_handler_server.cc(526)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[1226/195053.461:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
